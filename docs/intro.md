@@ -10,4 +10,4 @@ Mockpad is the ultimate solution for managing all aspects of student administrat
 
 ## Contributing
 
-For more details on how to contribute, please check out the [CONTRIBUTING](./contributing/README.md) file.
+For more details on how to contribute, please check out the [CONTRIBUTING](./contributing/general-instructions.md) file.
